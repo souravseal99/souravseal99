@@ -57,16 +57,20 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>  </p>
 </p>
 
-
 <p align="left"> 
     <h2>Most Used Languages</h2>
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souravseal99&show_icons=true&locale=en&layout=compact" alt="souravseal99" /></p>
 </p> 
 
-<h2>Streak</h2>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souravseal99&" alt="souravseal99" /></p>
+<p align="left"> 
+ <h2 align = "left">Streak</h2>
+ <p align = "left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souravseal99&" alt="souravseal99" /></p> 
+</p>
+ 
+<p align = "left">
+  <h2 align = "left">Github Stats</h2>
+  <p align = "left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souravseal99&show_icons=true&locale=en" alt="souravseal99" /></p>  
+</p>
 
-<h2>Github Stats</h2>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souravseal99&show_icons=true&locale=en" alt="souravseal99" /></p>
 
 
