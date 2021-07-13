@@ -31,7 +31,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/souravseal99)
 
-## Connect with me:
+## Connect me on:
  
  - [![Linkedin Badge](https://img.shields.io/badge/-Sourav_Seal-darkblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sourav-seal-b3989b1b5/)](https://www.linkedin.com/in/sourav-seal-b3989b1b5/) 
 
@@ -115,20 +115,25 @@
 
 -----
 
-<p align="left"> 
-    <h2>Most Used Languages</h2>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souravseal99&show_icons=true&locale=en&layout=compact" alt="souravseal99" /></p>
-</p> 
+## 📋Activities
 
-<p align="left"> 
- <h2 align = "left">Streak</h2>
- <p align = "left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souravseal99&" alt="souravseal99" /></p> 
-</p>
- 
-<p align = "left">
-  <h2 align = "left">Github Stats</h2>
-  <p align = "left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souravseal99&show_icons=true&locale=en" alt="souravseal99" /></p>  
-</p>
+<details>
+  <summary>❤️ Most Used Languages</summary>
+  <br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=souravseal99&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="souravseal99" />
+</details>
+
+<details>
+  <summary>🔥 GitHub Streak</summary>
+  <br/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souravseal99&theme=tokyonight" alt="souravseal99" />
+</details>
+
+<details>
+ <summary>📊 Github Stats</summary>
+  <br/>
+  <p align = "left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souravseal99&theme=tokyonight&show_icons=true&locale=en" alt="souravseal99" /></p>  
+</details>
 
 
 
