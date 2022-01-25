@@ -14,7 +14,7 @@
 
  - 🔭 I’m currently working on **My Personal Projects**
 
-- 🌱 I’m currently learning **MERN Stack developement**
+- 🌱 I’m currently learning **MERN Stack development**
 
 - 👯 I’m looking to collaborate on a **new Project**
 
