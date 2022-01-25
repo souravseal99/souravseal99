@@ -3,7 +3,7 @@
 ## About Me
  <pre align="right">
   Hi, I am Sourav Seal, 
-  I am a sophomore, currently persuing B.Tech(CSE) 
+  I am a Junior, currently persuing B.Tech(CSE) 
   from Maulana Abul Kalam Azad University of Technology, West Bengal. 
   I am an Open Source Enthusiast and a Front-end developer 
   always open to learn and collaborate 
@@ -12,11 +12,11 @@
 </pre>
 <section align="">
 
- - 🔭 I’m currently working on **My Personal Project**
+ - 🔭 I’m currently working on **My Personal Projects**
 
 - 🌱 I’m currently learning **MERN Stack developement**
 
-- 👯 I’m looking to collaborate on **Devincept Code Projects**
+- 👯 I’m looking to collaborate on a **new Project**
 
 <!-- - 🤝 I’m looking for help with **Backend Development** -->
 
