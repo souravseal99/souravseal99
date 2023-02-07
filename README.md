@@ -3,7 +3,7 @@
 ## About Me
  <pre align="right">
   Hi, I am Sourav Seal, 
-  I am a Junior, currently persuing B.Tech(CSE) 
+  Currently I am in my Senior years of persuing B.Tech(CSE) 
   from Maulana Abul Kalam Azad University of Technology, West Bengal. 
   I am an Open Source Enthusiast and a Front-end developer 
   always open to learn and collaborate 
