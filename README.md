@@ -3,23 +3,23 @@
 ## About Me
  <pre align="right">
   Hi, I am Sourav Seal, 
-  Currently I am a Full-Stack Developer @CloudKaptan. 
-  I am an Open Source Enthusiast and a Front-end developer 
+  Currently, I am a Full-Stack Developer @CloudKaptan. 
+  I am an Open Source Enthusiast and a Full-Stack developer 
   always open to learn and collaborate 
   
-  Fun Fact: I love to play keyboard 🎹    
+  Fun Fact: I love to play the keyboard 🎹    
 </pre>
 <section align="">
 
- - 🔭 I’m currently working on **My Personal Projects**
+ - 🔭 I’m currently working on **My Personal Development**
 
-- 🌱 I’m currently learning **MERN Stack development**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on a **new Project**
 
 <!-- - 🤝 I’m looking for help with **Backend Development** -->
 
-<!-- - 💬 Ask me about **React** -->
+ - 💬 Ask me about **React**
 
 - 📫 How to reach me **sourav.seal1999@gmail.com**
 
@@ -40,7 +40,7 @@
 
 ## Experience:
 
-#### Lanugages:
+#### Languages:
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
